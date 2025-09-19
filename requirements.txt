@@ -1,0 +1,16 @@
+# Core dependencies for the Agentic Model Framework
+# No external dependencies required for base framework
+
+# Web UI dependencies
+flask>=2.3.0
+flask-socketio>=5.3.0
+
+# For building executables
+pyinstaller>=5.0.0
+
+# Optional: For enhanced web UI styling
+# bootstrap-flask>=2.2.0
+
+# Development dependencies (optional)
+# pytest>=7.0.0
+# pytest-asyncio>=0.21.0

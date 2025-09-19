@@ -177,6 +177,27 @@ This will demonstrate:
 - Workflow execution
 - Error handling
 
+### Running the GUI Application
+
+The framework now includes a cross-platform graphical user interface:
+
+```bash
+# Start the web-based GUI
+python launcher.py
+
+# Or run directly
+python web_gui.py
+```
+
+The GUI provides:
+- **Agent Management**: Create and monitor agents
+- **Task Execution**: Run tasks with visual feedback
+- **Workflow Design**: Build complex workflows
+- **Real-time Monitoring**: Live logs and status updates
+- **Cross-platform**: Runs on Windows, Mac, and Linux
+
+For more details, see [README_GUI.md](README_GUI.md).
+
 ### Creating Custom Tasks
 
 ```python
